@@ -1,11 +1,10 @@
 p {
-    font-family: 'splatoon2regular', normal;
+    font-family: 'splatoon2regular'
     }
 
 @font-face {
     font-family: 'splatoon1regular';
-    src: url('https://github.com/FFStumbles/Splat3Builds/blob/main/fonts/splatoon1-webfont.woff2') format('woff2'),
-         url('https://github.com/FFStumbles/Splat3Builds/blob/main/fonts/splatoon1-webfont.woff') format('woff');
+    src: url('../Splat3Builds/fonts/Splatoon1.otf') format('truetype');
     font-weight: normal;
     font-style: normal;
 
@@ -13,8 +12,7 @@ p {
 
 @font-face {
     font-family: 'splatoon2regular';
-    src: url('https://github.com/FFStumbles/Splat3Builds/blob/main/fonts/splatoon2-webfont.woff2') format('woff2'),
-         url('https://github.com/FFStumbles/Splat3Builds/blob/main/fonts/splatoon2-webfont.woff') format('woff');
+    src: url('../Splat3Builds/fonts/Splatoon2.otf') format('truetype');
     font-weight: normal;
     font-style: normal;
 
