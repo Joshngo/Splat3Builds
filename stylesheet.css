@@ -1,19 +1,24 @@
-p {
-    font-family: 'splatoon2regular'
-    }
-
 @font-face {
     font-family: 'splatoon1regular';
-    src: url('../Splat3Builds/fonts/Splatoon1.otf') format('truetype');
+    src: url('./splat3builds/fonts/Splatoon1.otf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'splatoon2regular';
+    src: url('./splat3builds/fonts/Splatoon2.otf') format('truetype');
     font-weight: normal;
     font-style: normal;
 
 }
 
-@font-face {
-    font-family: 'splatoon2regular';
-    src: url('../Splat3Builds/fonts/Splatoon2.otf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
+h1 {
+    font-family: 'splatoon1regular';
+    font-size: 70px;
+}
 
+p {
+    font-family: 'splatoon2regular';
+    font-size: 25px;
 }
