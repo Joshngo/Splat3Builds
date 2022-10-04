@@ -1,9 +1,7 @@
-
-
 p {
     font-family: 'splatoon2regular', normal;
     }
-    
+
 @font-face {
     font-family: 'splatoon1regular';
     src: url('https://github.com/FFStumbles/Splat3Builds/blob/main/fonts/splatoon1-webfont.woff2') format('woff2'),
