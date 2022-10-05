@@ -1,13 +1,13 @@
 @font-face {
     font-family: 'splatoon1regular';
-    src: url('./splat3builds/fonts/Splatoon1.otf') format('truetype');
+    src: url('./Splat3Builds/fonts/Splatoon1.otf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'splatoon2regular';
-    src: url('./splat3builds/fonts/Splatoon2.otf') format('truetype');
+    src: url('./Splat3Builds/fonts/Splatoon2.otf') format('truetype');
     font-weight: normal;
     font-style: normal;
 
